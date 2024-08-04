@@ -1,0 +1,20 @@
+%MUSE2
+% input from midi file 星炫社 - 清茗忆1_旋律.mid
+T: 星炫社 - 清茗忆
+M: 3/4
+L: 1/8
+Q:1/4=109
+% Last note suggests minor mode tune
+K:E % 4 sharps
+
+V:1 style=jianpu name=主唱 sname=主唱 play=1 instrument=1 volumn=64 brk=2
+V:2 style=jianpu name=和声 sname=和声 play=1 instrument=0 volumn=64
+
+[V:1]
+%
+z6|AAA GA z|GGA G2z|FFF EF z|GF E4|AAA GA z|BB zAA z|GGG EzD |E3z3|AAA GA z|GGA G2z|FFF EF z|GF E4|AAA GA z|BB zAA z|GGG EzG |A3zA,A, |B,C C2zC |B,2B,2DB, |CDD D2E |D2D2z2|FFE D F2|ED C2z2|DED DED |CA, A,2EE |DC C2zC |B,2B,2DB, |CDD DDE |D2z4|FFE D F2|ED E2z2|DE D2ED |ED E2D(E |E4)z2|AAA GA z|GGA G2z|FFF EF z|GF E4|AAA G A2|BBA A2z|GGG E2D |E4z2|AAA GA z|GGA G z2|FFF EF z|GF E4|AAA GA z|B B2AA z|GGG EzG |A6|z4A,A, |B,C C2zC |B,2B,2DB, |CDD D z2|DE D2z2|FFE D F2|ED C2DE |D2D2ED |CA, A,2EE |DC C2zC |B,2B,2DB, |CD D2DE |D2D2z2|FFE D F2|ED E2z2|DED zED |ED E2D (E |E4)z2|AAA GA z|GGA G2z|FFF EF z|GF E4|AAA GA z|BB zAA z|GGG EzD |E3z3|AAA GA z|GGA G2z|FFF EF z|GF E4|AAA GA z|BB zAA z|GGG EzG |A3|]
+w:清明雨如烟珠帘半卷现出含*情双*眼独自倚危栏心上身影几重山水之间炭火烹清泉丝丝缕缕如良**玉生*烟新焙茶两盏伶仃一人对寥落*江天撑伞走过*这古街眉间几缕愁绪谁能写烛火明*灭的长夜闺中如诉琴声久难绝细雨暗*敲梧桐叶点点淋漓心间如滴血对月独坐着空*阶轻*叹物是人非的离别*多情自*古伤*离别记长亭骤雨初*歇一春芳*菲今*已绝心中难解千结炭火烹清泉丝丝缕缕如*良*玉生*烟新焙茶两盏回味其间多少苦*与甜青石板斑驳的岁月伞下相对倾诉这离别烛火燃暖了这长夜千言万语唯剩泪难歇细雨飘*洒梨花雪迢迢山水隔不开情切一杯清*茗千愁解伴*着多少回忆醉今夜*清明雨如烟珠帘半卷现出含*情双*眼独自倚危栏心上身影几重山水之间炭火烹清泉丝丝缕缕如良**玉生*烟新焙茶两盏伶仃一人对寥落*江天
+[V:2]
+%
+z4zA, |C4zC |D2E D2z|D D2z2D |zC B,4|D D3D2|E D2z2D |C (B,2B,/)z/B,B, |C4zC |C3z2C |D2E D2z|DD C2zD |DC B,3z|D (D2D/)z/DD |B,2E DDC |C3CCD |C3z3|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z4zA, |C4C2|D2E D3|D2D4|DC B,4|D2C3D |DzE D2D |B,2z3B, |C3z2C |C3z2C |D2E D2z|DD C2zD |DC B,3z|D (D2D/)z/DD |B,2E DDC |C3CCD |C3z3|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z4zA, |C4zC |D2E D2z|D D2z2D |zC B,4|D D3D2|E D2z2D |C (B,2B,/)z/B,B, |C4zC |C3z2C |D2E D2z|DD C2zD |DC B,3z|D (D2D/)z/DD |B,2E DDC |C3CCD |C3|]
+w:玉盏置方案燃起盘香淡淡空留一声叹清茗里*忆难断氤氲气*飘转朦胧了遥望视线高冲*低泡间茗香回*荡悠悠思念梨花谢檐上杜鹃正啼*血难寐夜空梦依依伴残月氤氲气*飘转朦胧了遥望视线高冲*低泡间茗香回*荡悠悠思念玉盏置方案燃起盘香淡淡空留一声叹清茗里*忆难断氤氲气*飘转朦胧了遥望视线高冲*低泡间茗香回*荡悠悠思念
