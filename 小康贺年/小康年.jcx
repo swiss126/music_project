@@ -1,0 +1,13 @@
+%MUSE2
+% input from midi file 小康年.mid
+T: 小康年
+M: 4/4
+L: 1/8
+Q:1/4=130
+K:Eb % 3 flats
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+E2EG ED E2|CA, CD E2z2|GA G2ED z2|ED G2E2z2|C2CD EG E2|DC DE D2z2|A2G E2G z2|ED DA, C2z2|E3G EE D2|C2G2E2DC |C2A,2CD D2|ED CD E2z2|C3G E2D2|E2G2E2D z|C2A,2CD z2|ED CD C C3|G2E2AA GE |DD CG E2z2|AA GE D2G2|E2z6|C2DD EG E2|DE DC C A,2z|DE GE D2CA, |C4z4|]
+w:雪才毕红梅竞朱联唤福荣碧瓦雪光盈宝马园停踏梯上楼阁请忙言贺年兴果奈颇丰谢有袁家圣安康邑贡重福音赞颂*红梅瓶里盛青蔬鼎中葱品馐杯共食馔碗同语数家容立些些好梦*安康贺庆耳畔才传喜*声固墙外*点鞭听速梅边引烟应别负良辰美景由岁月常静宁**
