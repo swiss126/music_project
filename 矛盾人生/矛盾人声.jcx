@@ -1,0 +1,63 @@
+%MUSE2
+% input from midi file 矛盾人生.mid
+T: 矛盾人生
+C: 作词：须柳
+C: 作曲、编曲：swiss126
+C: 调教、混音：棉花P
+C: 曲绘：狗崽
+C: PV：月芽Tsukime
+M: 4/4
+L: 1/8
+Q:113
+K:A % 3 sharps
+
+V:1 style=jianpu  ins 0 
+
+[V:1]
+%Page1
+z2 D C D2  C2|G,2  CD2E2E|B,2  C2  C2  CB,-|B, C3 z4|
+w: 遗忘了多久也不能阻挡你我的相*逢
+z2 ED E2 D2|A,2 DE2 F3| C2  C2  C2 A, C-| CD2z4z|
+w: 我挣扎了多久固定的轨迹与人*生
+z2 D C D2  C2| G,2  CD2E2E|B,2  C2  C2  CB,-|B, C3 z4|
+w: 尽管多般努力也只能换来嘲讽一*声
+z2 ED E2 D2|A,2 DE2 F3| C2  C2  C2 A, C-| CD2z E2  F2|
+w: 我不愿被荆棘束缚远离你的人生*纵使
+ G8| G G  G G  G2 ED|Dz E C3 z2|z4 E2  F2|
+w: 这冷酷的现实扼住了嗓音我依
+ G8| G G  G G  GE E G|Az B c4- c|z6  G G|
+w: 然努力向那美好的未来憧憬*可现
+A2  G2 A2  G2|A2  GE2E EE| G,2  G2  G2 AD-|DE4-E DE|
+w: 实从未理解梦境我已*不是你戏中演员可予我
+ F2 E2  F2 E2| F2  G2 A2  G2| G6 A G-| G4  G2 E2|
+w: 希望的是你为什么*呼呜*再看
+cd4-((d )c/2 c-| c4  G2 E2|d2 dd d2 ed| c3 c e2  cA-|
+w: 一****次我只不过是一个群演崩塌梦境
+A3A d2  c G-| G3z  G F E F|A2  g g  g2 a c|d3z  G2 E2|
+w: *这不是我*这可笑戏剧就是我的人生曾说
+d6  ce-|e4  f2 e2|d2 dd d2 e f|e3e  c2 a2|
+w: 过这是*戏一场幻想也都湮灭等待也
+ g2 a g za2z|e2  ge z g2z|e2  c c3  cd-|d2  G G e2 de|
+w: 没有结果我的人生从来都没有*被自己所掌
+d2- d/2z/2 c4- c-| c2 z6|z8|
+w: 握*过**
+%Page2
+z4 E2  F2| G8| G G  G G  G2 ED|
+w: 纵使这冷酷的现实扼住
+Dz E C3 z2|z4 E2  F2| G8| G G  G G  GE E G|
+w: 了嗓音我依然努力向那美好的未
+Az B c4- c|z6  G G|A2  G2 A2  G2|A2  GE2E EE|
+w: 来憧憬*虽现实从未理解彼此我也不
+ G,2  G2  G2 AD-|DE4-E DE| F2 E2  F2 E2| F2  G2 A2  G2|
+w: 会放弃梦想乡**梦想着与你携手再次向
+ G6 A G-| G4  G2 E2|d6  c c-| c4  G2 E2|
+w: 前反抗*再看一*次*我只
+d2 dd d2 ed| c3 c e2  cA-|A3A d2  c G-| G3z  G F E F|
+w: 不过是一个群演崩塌梦境*这不是我*这可笑戏
+A2  g g  g2 a c|d3z  G2 E2|d6  ce-|e4  f2 e2|
+w: 剧就是我的人生曾说过这是*戏一
+d2 dd d2 e f|e3e  c2 a2| g2 a g za2z|e2  ge z g2z|
+w: 场幻想也都湮灭等待也没有结果我的人生
+e2  c c3  cd-|d2  G G e2 de|d2- d/2z/2 c4- c-| c2 
+w: 从来都没有*被自己所掌握*过*END
+
