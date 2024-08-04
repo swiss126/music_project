@@ -1,0 +1,22 @@
+%MUSE2
+% input from midi file 狂欢_V5ToMidi.mid
+% totally 3 tracks
+T: 狂欢
+M: 4/4
+L: 1/8
+Q:1/4=144
+% Last note suggests minor mode tune
+K:E % 4 sharps
+
+V:1 style=jianpu  ins=0 
+
+V:2 style=jianpu  ins=0 
+
+[V:1]
+
+C C3B,2CB, |C B,4A, B,B, |E(D [E/-D/])E/ E2D CD |ED E2z4|E4D2CG |E G4A/G/ AG |EE EF D C2D |CB, A,2z4|E,2A,2G,/A,G,3/2G, |A,3/2A,3/2E D2z2|C2C3/2D/ CB, A,G, |A,3/2C3/2B, A,3z|G,G, G,A, G,4|A,B, CC B,3z|FF FE/F3/2 G3|AA A3/2G/ A3z|AA AG GA c2|d2ed GE AG |AA AG A2c2|B2GE GE G/A/G |ze e2c2c(c |c)A/G/ AB A/B/A A2|z2AA c2B(B |B)A/B/ AG A/B/A A2C C3B,2CB, |C B,4A, B,B, |ED E E2D CD |ED E2z4|E4D2CG |E G4A/G/ AG |EE EF D C2D |CB, A,2z4|E,2A,2G,/A,G,3/2G, |A,3/2A,3/2E D2z2|C2C3/2D/ CB, A,(G, |[A,/-G,/])A,C3/2B, A,3z|G,G, G,A, G,3z|A,B, CC B,3z|FF FE/F3/2 G3|AA A3/2G/ A3z|AA AG GA c2|d2ed GE AG |AA AG A2c2|B2GE GE G/A/G |ze e2c2c(c |c)A/G/ AB A/B/A A2|z2AA c2B(B |B)A/B/ AG A/B/A A2|E2D2C/DC3/2C |D3/2D3/2A G2z2|F2F3/2G/ FE DC |D3/2F3/2E D3z|CC CD C3z|DE FF E3z|_B_B _BA/_B3/2 c3|dd d3/2c/ d3z|AA AG GA c2|d2ed GE AG |AA AG A2c2|=B2GE GE G/A/G |ze e2c2c(c |c)A/G/ AB A/B/A A2|z2AA c2B(B |B)A/B/ AG A/B/A A2|
+w:指针停在这个疯狂圣诞你的复杂舞姿变得简单*猩红色的液体飞得很远你的骨骼燃烧成了一滩撒上放置了好久的细盐是食之无味的防腐糕*点开始这漫长机械的吞咽我能感受到这致命的纠缠他们开始举起你狂欢*我也狂欢他们细数了我的荒诞你也荒*诞他们赞叹着你的美善我也美善*他们唾弃着我的贪婪你也贪婪*欢迎抵达这个疯狂圣诞人们开始逃窜慌乱不堪灰头又土脸显得多可怜可你洁白如救世主一般我已经拉下破洞的窗帘没有人能够在这时出**现我拉着你和我一起腐烂腐烂的根*茎长出了藤蔓他们开始举起你狂欢*我也狂欢他们细数了我的荒诞你也荒*诞他们赞叹着你的美善我也美善*他们唾弃着我的贪婪你也贪婪*撒上放置了好久的细盐是食之无味的防腐糕*点开始这漫长机械的吞咽我能感受到这致命的纠缠他们开始举起你狂欢*我也狂欢他们细数了我的荒诞你也荒*诞他们开始举起你狂欢开始狂欢*反正我们有的是时间再来一遍
+[V:2]
+
+z8|z8|z8|z8|C4A,2G,G, |A, E4zG,A, |CC CC B, A,2G, |A,G, A,2z4|z8|z8|z8|z8|z8|z8|C (3C2C2C2G, A,B, |C2CB,/B,/ A,3z|FF FE DF GG |A4GE AG |FF EE D2E2|E2GE GE G/A/G |zA A2G2G(G |G)E/G/ EA G/A/B A z|z2F2F2G2|A8z8|z8|z8|z8|C4A,2G,G, |A, E4zG,A, |CC CC B, A,2G, |A,G, A,2z4|z8|z8|z8|z8|z8|z8|C (3C2C2C2G, A,B, |C2CC/B,/ A,4|FF FE DF GG |A4GE AG |FF EE D2E2|E2GE GE G/A/G |zA A2G2G(G |G)E/G/ EA G/A/B A z|z2F2F2G2|A8|A,2D2C/DC3/2C |D3/2D3/2A G2z2|F2F3/2G/ FE DC |D3/2F3/2E D3z|z8|z8|F (3F2F2F2C DE |F2FF/E/ D3z|FF FE DF GG |A4GE AG |FF EE D2E2|E2GE GE G/A/G |zA A2G2G(G |G)E/G/ EA G/A/B A z|z2F2F2G2|A8|
+w:猩红色的液体晶莹剔透的放在橱窗里展览我们的根茎交织在花瓶里面他们开始举起你狂欢我也狂欢他们细数了我的荒诞你也荒*诞他们赞叹着你的美善我也美善*唾弃贪婪灰头又土脸显却终将被染上属于我的尘烟无数的人脚踩着却对我审判他们开始举起你狂欢我也狂欢他们细数了我的荒诞你也荒*诞他们赞叹着你的美善我也美善*唾弃贪婪撒上放置了好久的细盐是食之无味的防腐糕*点我们的根茎交织在花瓶里面他们开始举起你狂欢我也狂欢他们细数了我的荒诞你也荒*诞*他们开始举起你狂欢开始狂欢再来一遍
