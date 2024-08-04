@@ -1,0 +1,14 @@
+%MUSE2
+% input from midi file 我不是善解人意的姑娘_旋律.mid
+T: 我不是善解人意的姑娘
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:E % 4 sharps
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+%
+G,2EC DC DC |D2E E3A,A, |C2DC DC DC |E2D D3z2|E2ED CD ED |E A,2zDD ED |C C3zC D2|D4z4|G,2EC DC DC |D2E E3A,A, |C2DC DC DC |E2D D3z2|E2ED CD ED |E A,2zDD ED |C C3zC D2|C4z4|E2GE A2G2|D C2D4z|A,2C2E2DD |D2C D2z3|E2GE A2G2|E D2C3z2|A,C CC D2CC |C3z4z|E2GE AA G2|D C2C D D3|A,2C2E2D2|DD DC D3z|E2GE AA G2|ED D C3z2|A,C CC C2DC |C3z4z|G,2EC DC DC |D2E E3A,A, |C2DC DC DC |E2D D3z2|E2ED CD ED |E A,2zDD ED |C C3zC D2|D4z4|G,2EC DC DC |D2E E3A,A, |C2DC DC DC |E2D D3z2|E2ED CD ED |E A,2zDD ED |C C3zC D2|C4z4|E2GE A2G2|D C2D4z|A,2C2E2DD |D2C D2z3|E2GE A2G2|E D2C3z2|A,C CC D2CC |C3z4z|E2GE AA G2|D C2C D D3|A,2C2E2D2|DD DC D3z|E2GE AA G2|ED D C3z2|A,C CC C2DC |C3
+w:我不是善解人意的姑娘所以你翻过围墙敲开她的窗灯光下两道人影摇晃彻夜长谈人生的理想你不是风流多情的情郎只是爱她的善良给她帮个忙夜色中云海翻涌如浪雨水淋湿干枯的河床你说你喜欢去流浪而我不适合去远方辽阔人间相遇一场最多为我赠言两行第一行是感谢我爱的痴狂说会珍惜陪你的时光第二行是告别追寻梦想从此陪伴在她身旁我不是善解人意的姑娘所以你翻过围墙敲开她的窗灯光下两道人影摇晃彻夜长谈人生的理想你不是风流多情的情郎只是爱她的善良想给她帮忙夜色中云海翻涌如浪雨水淋湿干枯的河床你说你喜欢去流浪而我不适合去远方辽阔人间相遇一场最多为我赠言两行第一行是感谢我爱的痴狂说会珍惜陪你的时光第二行是告别追寻梦想从此陪伴在她身旁
