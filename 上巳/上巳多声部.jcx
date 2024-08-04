@@ -1,0 +1,31 @@
+%MUSE2
+% input from midi file 上巳多声部.mid
+% totally 5 tracks
+T: 上巳多声部
+M: 3/4
+L: 1/8
+Q:1/4=130
+% Last note suggests minor mode tune
+K:D % 2 sharps
+
+V:1 style=jianpu name=主 play=1 instrument=0 volumn=64
+V:2 style=jianpu name=和 play=1 instrument=0 volumn=64
+V:3 style=jianpu name=和 play=1 instrument=0 volumn=64
+V:4 style=jianpu name=和 play=1 instrument=0 volumn=64
+
+[V:1]
+z2E E E2|EDE E3|CCC A, A,2|D E4z|z2D D D2|DDE D3|CCC A, B,2|G, E,4z|z2E E E2|EDE E3|DDD C A,2|D E4z|z2D D D2|DDE D3|GGG E D2|(E4E )z|z2E DE(E |E2)E DEE |z2C CCE |D2E2(D2|D2)E DE(E |E)ED E D2|z2G GGE |D2E2(E2|E2)E ED(E |E)GE D (E2|E)zG A G2|AGE E2z|CE D4|z2D DC(D |D)ED C (D2|D)zC CCA, |B,2G,2(A,2|A,2)G ED(E |E)AG D (E2|E)zA A G2|AGE E3|ED E4|z2D DC(D |D)ED C (D2|D)zC CCB, |A,2G,2(A,2|A,6)|]
+w: 1.今朝不与旧时同泊岸临水一棹舟觉来犹有料峭寒苍山悄隐晓岚后去年昔游尚如昨春景又留花枝头新醅独酌对远风忽忆远别故友*日既出**林霏开*酣时更觉往岁遥*恰东风**吹急*雨递来烟波渺渺**此心悠哉*此意悠哉*三月三同赏翠幕临湖眺海云成雪*塞柳得春*登亭纵歌抛寂寥*万物如旧*万物如新*三月三不见尘中事纷扰前忧才扫*澄空初霁*夕回时一顾*笑
+w: 2.逢流云沉沉出岫梦外垂柳衬烟晴春色如许欢娱中浮杯兴筵曲水滨若以彻醉为归期平生无处不清明暮时桃花映青川愿长醉不复醒*
+[V:2]
+z2C C C2|CDC C3|z6|z6|z2A, A, A,2|A,A,B, A,3|z6|z6|z2C C C2|CDC C3|z6|z6|z2A, A, A,2|A,A,B, A,3|CCC A, G,2|(A,4A, )z|z4(C2|C4)(E2|E4)(A,2|A,2)C2(D2|D4)(C2|C4)(E2|E4)EC |A,2C2(C2|C2)z4|z6|z2E D E2|EDC C2z|A,C B,4|z2G, G,A,(G, |G,)A,G, E, (G,2|G, )z4z|z6|z2E CA,(C |C)EE A, (C2|C)zE E D2|EDC C3|CD C4|z2A, A,G,(A, |A,)CA, G, (A,2|A,)zA, A,A,B, |E,2G,2(E2|E6)|]
+w: 1.今朝不与旧时同觉来犹有料峭寒去年昔游尚如昨新醅独酌对远风忽忆远别故友*出*开*往*岁遥*风*雨*烟波渺渺**三月三同赏翠幕临湖眺海云成雪*塞柳得春*万物如旧*万物如新*三月三不见尘中事纷扰前忧才扫*澄空初霁*夕回时一顾*笑
+w: 2.逢流云沉沉出岫春色如许欢娱中若以彻醉为归期暮时桃花映青川愿长醉不复醒*
+[V:3]
+@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|
+z4(E2|E2)z2(E2|E2)z4|E2E2(D2|D2)z2(E2|E2)z2(D2|D2)z4|E2E2(E2|E2)z4|z6|z6|z6|z6|z2(D4|D )z3(D2|D )z4z|E2D2(E2|E2)z4|z6|z2G G E2|GED E3|GA E4|z6|z6|z6|E2D2(E2|E6)|]
+w: 出*开*往岁遥*风*雨*烟波渺渺海*春*抛寂寥*三月三不见尘中事纷扰顾*笑
+[V:4]
+@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|@6|
+z4(A,2|A,2)z2(G,2|G,2)z4|A,2A,2(G,2|G,2)z2(G,2|G,2)z2(G,2|G,2)z4|G,2G,2(A,2|A,2)A, A,G,(A, |A,)CA, G, (A,2|A, )z4z|z6|z6|z2(G,4|G, )z3(G,2|G,)zG, G,G,E, |E,2D,2(E,2|E,2)z4|z6|z2G, G, E,2|G,E,D, E,3|G,A, E,4|z2E, E,G,(E, |E, )z3(E,2|E, )z4z|E,2D,2(E,2|E,6)|]
+w: 出*开*往岁遥*风*雨*烟波渺渺此心悠哉*此意悠哉*海*春*登亭纵歌抛寂寥*三月三不见尘中事纷扰前忧才扫*霁*顾*笑
