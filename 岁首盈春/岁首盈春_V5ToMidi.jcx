@@ -1,0 +1,24 @@
+%MUSE2
+% input from midi file 岁首盈春_V5ToMidi.mid
+% totally 3 tracks
+T: 岁首盈春
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:Eb % 3 flats
+
+V:1 style=jianpu name=主 play=1 instrument=0 volumn=64
+
+V:2 style=jianpu name=和 play=1 instrument=0 volumn=64
+
+[V:1]
+z6zG |EE DD CD CE |D2z3A, CE |D zDD CD E2|E4z4|EG A G2G GC |E D2z2D EA |G2ED CD (C2|C2)z3A, CD |G zGE D C3|D3z2A, CE |D zCG C D3|E3z2A, CD |G zGA G C3|A,3z2G, A,C |D2zA GA (G2|G2)z6|
+w: 1.春泥方才转醒又过一岁枝头霜融半斛暖风雪吹新草冒尖谁家燕南归枯梢点红有白梨作陪*琥珀余温衔来千山翠温柔吻尽倦意与朝晖游子满身披星暮色归今朝尽兴乘月涉水*
+w: 2.稚子偏逗狸奴引声声催新衣云鬓宜用珠玉相配柔云路过偷尝小月桂檀香氤氲扫庭祭先辈*火龙游街金狮显神威花灯走马星屑映零碎糖葫芦都成串如珠列队立灶而拜人间百味
+E3/2G3/2A G2c2|B3G3cB |c3/2 (3B2G2G2E3/2D |E4z4|A3/2G3/2A G2C2|E3D2zED |DE G2E D2A, |C4z4|
+w: 1.粉黛吐蕊迎青阳金墨挥贺词红帖两行万盏灯笼悬梁*声声爆竹中倾盏杜康
+w: 2.剪纸百景入轩窗满院胭色煨火小炉烫还要饮碗暖汤*岁末生盛色最易心动
+E3/2G3/2A G2c2|B3G3cB |c3/2 (3B2G2G2E3/2D |E4z4|A3/2G3/2A G2C2|E3D2zED |DE G2A G2A |G8|E3/2G3/2A G2c2|B3G3cB |c3/2 (3B2G2G2E3/2D |E4z4|A3/2G3/2A G2C2|E3D3z2|E2D2D3/2C3/2A, |C4
+w: 3.持帚扫去旧年秽腊梅次第开琼玉几堆众亲围坐举杯*此岁至辛丑庚子莫追隆冬迎福过双岁离别与团圆朝暮相随片雪盛春盈碗吹今朝身边是谁
+[V:2]
+z8|C2A,2G,G, zG, |A,2z6|A,G, A, D2z2C |E2z6|CD E E4z|G D2z4z|EG AG CD C2|C2z6|C zC zCD C2|D zD zD2z2|C zC zC zD2|E3z4z|E zEG E zC2|A, zA, zA,2A,C |D zD zD zD z|C zC2z4|
