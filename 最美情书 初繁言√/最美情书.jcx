@@ -1,0 +1,15 @@
+%MUSE2
+% input from midi file 最美情书 初繁言.mid
+T: 最美情书 初繁言
+M: 4/4
+L: 1/8
+Q:1/4=130
+% Last note suggests Lydian mode tune
+K:G % 1 sharps
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+%
+G,2D/E3/2 E2D2|E4ED DC |B,2B,3zB,2|B,B, E,2G,4|A,2A,A, A,2G,2|A,4CC CC |B,2B,3zB,2|B,B, D2G,4|G,2EE E2D2|E4C2D2|DD D4C2|A,6z2|G,2D2D D3|CD E2D2D2|B,2G,6|z8|G,2EE DD E2|E (G2G/ )z/A,2C2|DD D3zDD |D2C2A,4|A,A, C2CC DD |A,4z4|D2D2C E3|D6z2|C2GG EE G2|A6G2|E2E E3DE |A,6z2|D2D2CD C2|A,6z2|DD C2D2C2|C6z2|G,2EE DD E2|E G2zA,2C2|D4DD DD |D2C2A,4|A,A, C C2C D2|A,4z4|D2D2C E3|D6z2|C2EG EE G2|G (A4A )G2|E2E3E DE |A,6z2|D2D2CD C2|A,6z2|D2D2CD D2|C6z2|G,2EE E2D2|E4DD DC |B,2B,3zB,2|B,B, E,2G,4|A,2A,A, A,2G,2|A,4CC CC |B,2B,3zB,2|B,B, D2G,4|G,2DE E2D2|E4C2D2|DD D4C2|A,6z2|G,2D2D D3|CD E2D2D2|B,2G,6|z8|G,2EE DD E2|E G3A,2C2|DD D3zDD |D2C2A,4|A,A, C C2C D2|A,4z4|D2D2C E3|D6z2|C2GG EE G2|A6G2|E2E E3DE |A,6z2|D2D2CD C2|A,6z2|DD CC D2C2|C6z2|G,2EE DD E2|G4A,2C2|DD D3zDD |D2C2A,4|A,A, A,/ (C2C/)C DC |A,4z4|D2D2C E3|D6z2|C2GG EE G2|A6G2|E2E3E DE |A,6z2|D2D2CD C2|A,6z2|D2D2CD D2|C6z2|C2GG EE G2|A6G2|E2E E3DE |A,6z2|D2D2CD C2|A,6z2|D2(D4D )z|CD D2C3z|(C8|C8)|]
+w: 阳光*浅吻过羽毛末梢光洁纯白而繁复墨迹亦*匍匐不经意已流成诗行的汩汩我取清晨六点玫瑰采集的雨露兼与一颗赤忱的心来调度请容我倾尽坦诚**为你写一封最美的情书笔尖与纸端相*触尽显古*朴情丝*悄然蹑足来到我心底长住终也开出满山花*海的芳馥请原谅我拿不起*放不下一厢情愿的庸碌纵此行亦时常得泪水浸*濡跨越*万千险阻**再怀拥花团锦簇褪却身后共你来看月沉日出或是*千里行迢迢寻觅茫然人海中明珠或是暂驻留待一道惊雷划破湛蓝的天幕我曾*跋涉过章嘉峰最高那处拨开数层霜雪融化了眉目请容我倾尽世界*为你写一封最美的情书从滴雨檐下直到云卷云*舒这漫*长的征途心却还不止匆促从青葱*一路渐然缓行到日暮请谅我徘徊冰冷尘世还一掷孤勇的信笃未等到**最终结局不肯落*幕执着*肩背包袱说他才刚刚起步哪怕只为一句人生我不*负请容我为你写封最美的*情*书最美情**书此生也不***负
