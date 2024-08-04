@@ -1,0 +1,14 @@
+%MUSE2
+% input from midi file 霖棉赋_旋律.mid
+T: 霖棉赋
+M: 4/4
+L: 1/8
+Q:1/4=109
+K:D % 2 sharps
+
+V:1 style=jianpu  ins0 
+
+[V:1]
+%
+AG A (c4c )|BB AA G3E |EB A G4E |E3z4z|ED E (F4F )|AA GF E3D |DF E D4E |D3z4z|F2EF E D3|DE C A,3B,C |D4EF (E2|E2)z4D2|D4z4|AG A (c4c )|BB AA G3E |EB A G4E |E3z4z|ED E (F4F )|AA GF E3D |DF E D3zE |D4z4|F2EF E D3|DE C A,3z2|CB, C D3EF |D6D2|(E8|E4)z4|z8|AG A (c4c )|BA B (E4E )|AG A B3AB |E6z2|DC D F3ED |E2A,4B,C |D2D4EF |D6z2|AG A (c4c )|dc d (B4B )|dc d B3BA |B6z2|AG A (F4F )|ED E2A,4|D2E2z2G,2|A,6z2|AG A (c4c )|BA B (E4E )|AG A B3AB |E6z2|DC D F3ED |E A,3z2B,C |D2D4EF |D6z2|AG A (c4c )|dc d (B4B )|dc d B3BA |B6z2|AG A (F4F )|ED E2A,4|D2E4G,2|A,6z2|BA B (d4d )|^cB ^c (^F4^F )|BA B ^c3B^c |^F6z2|ED E G3^FE |^F2B,4^CD |E2E4^FG |E6z2|BA B (d4d )|ed e (^c4^c )|ed e2^c2^cB |^c6z2|BA B (G4G )|^FE ^F2B,4|E2^F4A,2|B,6z2|BA B (d4d )|^cB ^c (^F4^F )|BA B ^c3B^c |^F6z2|ED E G3z2|^FE ^F B,3^CD |E2E4^FG |E6z2|BA B (d4d )|ed e (^c4^c )|ed e ^c3^cB |^c6z2|BA B (G4G )|^FE ^F2B,4|E2^F4A,2|B,6z2|BA B (G4G )|^FE ^F2B,4|E2^F4z2|A4(A4|A4)(B4|B8)|
+w:霖落泽兮*悄悄涟漪拨恬寂水里弄红衣霖弹叶兮*茜茜递春邀红嬉不知何故兮无事支撑伞踮趾霖里天阴晴已忘矣*雨细霖溅足兮*细细凉冽催步急行至棉下荫霖扣伞兮*呲呲声语往事忆花同期依*却难觅昔日留恋情怡然落红仍不*失韵意*霖*没兮*霖*没兮*又*多少可追觅既觅依稀雨过眼兮便消淡寥若*洗霖*下兮*霖*下兮*花*摇曳而寂寂虽招人至*孰*能依谈心凄已霖*绽兮*霖*绽兮*几可存更久矣*当年红衣已*落地剩残忆搔心泪意霖*漫兮*霖*漫兮*涌趾间留寒上溢霖*千滴*心*无音冷冷清清霖*没兮*霖*没兮*既逝安能追*觅何不珍惜此*瞬息观清交织涟*漪霖*下兮*霖*下兮*哗声细*而逸馨任无共赏*心*知悉此境所以霖*绽兮*霖*绽兮*虽一*瞬可追忆当年红衣虽*落已心却不忘其深意霖*漫兮*霖*漫兮*任摘伞不愁湿衣微*风清*吹*心起温馨相依微*风清*吹*心起温馨相**依
