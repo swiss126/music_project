@@ -1,0 +1,14 @@
+%MUSE2
+% input from midi file 心声.mid
+T: 心声
+M: 4/4
+L: 1/8
+Q:1/4=135
+K:D % 2 sharps
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+%
+EE E2F E3|DE D C3G,G, |A,C A, C3CC |D2G,4A,2|C C2zCC D2|A,4z2A,=B, |C C2z=B,=B, C2|=B,4z4|EE E2F E3|DE D C3G,G, |A,C A, C3CC |D2G,4A,2|C C2zCC D2|A,4z2A,=B, |C D2zCC D2|C4z4|G2G2F E3|DD E2D2G,G, |C C2zFE C2|D4z2G,G, |C C2zC D2C |A,4z2CD |F zE zFE C2|D4z4|G2G2F E3|DD E2D2G,G, |C C2zFE F2|D4z2G,G, |C C2zC D2C |A,4z2CD |F zE zFE C2|C4z4|EE E2F E3|DE D C3G,G, |A,C A, C3CC |D2G,4A,2|C C2zCC D2|A,4z2A,=B, |C C2z=B,=B, C2|=B,4z4|EE E2F E3|DE D C3G,G, |A,C A, C3CC |D2G,4A,2|C C2zCC D2|A,4z2A,=B, |C D2zCC D2|C4z4|G2G2F E3|DD E2D2G,G, |C C2zFE C2|D4z2G,G, |C C2zC (D2D/)C/ |A,4z2CD |F zE zFE C2|D4z4|G2G2F E3|DD E2D2G,G, |C C2zFE F2|D4z2G,G, |C C2zC (D2D/)C/ |A,4z2CD |F zE zFE C2|C4z4|A2A2_B A3|GG A2G2CC |F F2z_BA _B2|G4z2CC |F F2zFF G2|D4z2FG |_B zA z_BA F2|G4z4|A2A2_B A3|GG A2G2CC |F F2z_BA _B2|G4z2CC |F F2zFF G2|D4z2FG |_B zA z_BA F2|F4z4|c2c2_B A3|GG A2G2CC |F F2z_BA F2|G4z2CC |F F2zFG D2|D4z2FG |_B zA z_BA F2|G4z4|c2c2_B A3|GG A2G2CC |F F2z_B/A3/2 _B2|G4z2CC |F F2zFG D2|D4z2FG |_B zA z_BA F2|F4z4|A2A2_B A3|GG A2G2CC |F F2z_BA F2|G4z2CC |F F2zF G2F/ z/|D4z2FG |_B zA z_BA F2|F8|]
+w: 我们怀揣着小小朝阳向着那彼岸的遥远殿堂一路上歌声飘荡伴着天空闪烁星光热*情在思绪中欢畅眼泪在灯光后备足宴飨一路上野花芬芳铺*垫着破碎翅膀曾燃烧的骄傲倔强现在仍在风中摇晃看*多少的过*往泪落时却不是悲凉曾燃烧的骄傲倔强在那角落焕发光芒就算遍体鳞**伤只因为我喜欢翱翔舞台之上是谁在歌唱荧光棒汇成喧嚣的海洋围观者默默忧伤是否想起尘封梦想不*愿仰视谁的飞翔也尝试挥动着瘦弱翅膀若隐若现的希望纵身一跃的*张扬曾燃烧的骄傲倔强在疾风中颤抖闪光眼前多少过***往热泪划过青春脸庞曾燃烧的骄傲倔强在舞台的中心绽放就算遍体鳞***伤只因为我喜欢翱翔我们挥动身后翅膀向着天空凌云而上天与地奏成的交响在我耳旁不停回荡我们挥动身后翅膀向着天空凌云而上当乐谱奏到了终章聚光灯都为我点亮曾不敢开口的梦想化作舞台上的歌唱直到天际发**亮这一夜没有人退场曾埋藏心底的梦想在世界中心*发光唱到既痴也**狂才不负从前的渴望历经多少挫折忧伤不磨灭的唯有希望约定一个梦**想看谁的世界最闪亮
