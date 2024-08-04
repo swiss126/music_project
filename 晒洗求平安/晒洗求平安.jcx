@@ -1,0 +1,14 @@
+%MUSE2
+% input from midi file 晒洗求平安.mid
+T: 晒洗求平安
+M: 4/4
+L: 1/8
+Q:1/4=104
+% Last note suggests Dorian mode tune
+K:F % 1 flats
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+A,2A,E D E2E |DD CA, D2z2|E2DE EA, CD/C/ |A,2CA, CD/C/ A,2|E2ED E A,2D |A,2CE D2z2|CC CA, DD D/E3/2 |D2CA, CD/C/ A,2|A2AG A E2E |A2GA D2z2|E2ED C E2E |GG GG A G2z|E2ED E A,2D |A,2CE D2z2|CC CA, DD DE |DD CA, A,2z2|A2AG A E2A |A2GA D2z2|E2ED C E2E |G2GG A G2z|E2ED E A,2D |A,2CE D2z2|C2CA, C C2E |DD CA, A,2z2|
+w:暖风吹竹轩斜日倚栏*杆春装初换披薄**衫年正过一*半坤卦卜今天象曰贞吉安红绿经书晒一晒*阴阳生祈平*安衣裳晒一晒太阳味新沾好运财源在衣间装柜常相伴井水晒一晒温暖阳光满沐浴更衣日暮边*百病莫侵犯猫狗闹喧喧洗沐在河边虫蚊去无烟*虱蚤遭全歼庙会数罗汉六月六重天诚心求灵签*岁岁得平安
