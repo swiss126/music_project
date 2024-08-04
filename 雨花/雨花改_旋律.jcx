@@ -1,0 +1,16 @@
+%MUSE2
+% input from midi file 雨花改_旋律.mid
+T: 雨花改_旋律
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:D % 2 sharps
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+EF G2F2E2|DE z4G,G, |A,2G,2E3G |Ez6C |C2D2C2D(D |D)G G C2z2A, |A,2A, A,3B,2|G,G, G,2D z3|EF G2F2E2|DE z4G,G, |G,2C2B,2E2|GE z4zC |CD ED C2DD |C6z2|A,A, A,2B,B, D2|E2GD z4|AA A2A2G(A |A2)G2Ez2G |AB c d2B Gc |c4z3f |e2d2c2B(c |c2)e2z3B |cB cB A2fe |d6ze |e2e2e2d(e |e2)cG z3G/G/ |AB cd B2G(c |(c3)c/)z3z/f |e2d2c2B(c |c2)e3z2B |cc dc A2ed |c6z2|
+w: 走着熟悉的楼梯感受曾经的回忆留在记忆的封*闭自己眼前的温馨不在是你思念穿越了世界落叶掩盖了痕迹*微风拂过脸庞不在意白云飘过来又飘过去我在窗外看着*你*窗外的雨滴滑落大地布满雨花的玻*璃躲藏着一个无言的你如果能鼓起勇*气*去推开那扇关闭的门**我们的结局是*否会像童话故事般结局
+EF G2F2E2|F2CG, z4|CC D2C3z|EF G2Dz2C |C2D2C2D(D |D2)E2z3A, |A,2B,2A,2B,2|G, G,2B, Dz2E |E2F2E2F(E |E2)G2z3F |AB c B3G(c |(c3)c/)z3z/f |e2d2c2d(c |c2)e3z2B |cc cB A2fe |d6ze |e2d2e2d(e |e)c d2Gz2G/G/ |AB cB B2G(c |(c3)c/)z3z/f/e/ |cd dd cB c(c |c)e d/eG3/2z2B |cc A2cA Af |ed/d/ f g2z3|EF GA G E3|G3/2(F/ F/)G(F/ F/)G (E2(E/ )|]
+w: 我在窗外等待着你看着房子里的嫁衣虽然在同样季*节却做着不一样的抉择忘了我们的誓*言触摸曾经的回忆**我们曾经的日*子泪花散落在我的心里雨花打在你我*的心里却没人愿意打扫干净**等待雨过天晴我们还可*以再继续继续那个我们还未完成的秘密可最终换来的还是*擦肩*而已
