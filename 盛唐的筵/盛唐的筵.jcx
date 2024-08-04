@@ -1,0 +1,13 @@
+%MUSE2
+% input from midi file 盛唐的筵.mid
+T: 盛唐的筵
+M: 4/4
+L: 1/8
+Q:1/4=130
+K:D % 2 sharps
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+z6CC |DE D E2E DC |D2A,2z2ED |C D2D2E DC |D2D2z2EE |D E2D E2GE |DC A,2z2G,A, |C2DE E2ED |E C2z3A,C |DE D E2zGA |GE G2z2EG |A G2G2A GA |E2z2ED ED |C D2zED EC |A,2z2G,A, C2|C2DC D2ED |E C2z3GG |EG E G2zGA |GE G2z2EG |A c2c2d cd |A2z2AG AG |E G2zAG AG |E2z2GE E2|D2GG EE GE |E D2z3CD |GG E G2zGA |GE G2z2EG |c2c c2d cd |A2z2AG AG |E G2zAG AG |E2z2GE E2|D2GG EE DC |A, C2z4z|]
+w:丝丝暖风吹来难能的清闲小楼灯火阑珊酒香肆溢绵延十里飘香酒醉的游子何时归家拥抱眼前伊人街巷大红灯笼一挑出了墙我漫步古道身着红裳不知何地烟花爆竹作*响回眸望却远处万家灯火长然我久坐小楼回眸一*望对襟红袄锦带随风扬窗外灯火通明繁花似*锦坐看一方星辰北斗光芒万丈夜渐深凉繁星闪烁流*光捻着糖人听远处唱腔戏子手作兰花淋漓唱*响盛世大唐万里江山百世流芳
