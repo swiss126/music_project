@@ -1,0 +1,16 @@
+%MUSE2
+% input from midi file 手写春联_旋律.mid
+T: 手写春联
+M: 4/4
+L: 1/8
+Q:1/4=130
+% Last note suggests Mixolydian mode tune
+K:G % 1 sharps
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+ CA, C C3z2|DD C A,3z2|CC A,2C2CD |CC A, G,3z2|A,G, A, A,2C CD |A,3z4z|DE GE D2CA, |C3z4C |GE G G3z2|EE D E3z2|CC A,2C2CD |CC A, G,3z2|A,G, A, A,2C CD |A,3z4z|DE GE DD CA, |C3z4z|AG A A3A2|AA GE G2z2|DC D D3A,2|DD EG D3z|AG A A3A2|AA GD C2z2|A,C D2EG E2|DD CA, C3z|AG A A3A2|AA GE G2z2|DC D D3A,2|DD EG D3z|AG A A3A2|AA GD C2z2|A,C D2EG E2|DD CA, C3z :|]
+w: 四季更替又是一年千*家万户*喜笑开颜手写春联贴*门前欢乐祥和满人*间是点滴心愿凝在笔尖美*好祝福*呈上纸面福墨香气传*千年手写春联喜庆中国年团圆联*是家家团圆年福寿联*是人人福寿延财运联*是滚滚财运年平安联是岁岁事事如*愿团圆联*是家家团圆年福寿联*是人人福寿延财运联*是滚滚财运年平安联是岁岁事事如*愿
+A,C D2EG E2|D D3zC A,2|C8|]
+w: 平安联是岁岁事事如*愿
