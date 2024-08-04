@@ -1,0 +1,14 @@
+%MUSE2
+% input from midi file 萨迦_旋律.mid
+T: 萨迦
+M: 4/4
+L: 1/8
+Q:1/4=130
+% Last note suggests minor mode tune
+K:F % 1 flats
+
+V:1 style=jianpu  ins=0 
+
+[V:1]
+A,2B,C CB, CB, |C2z2CB, CB, |A,2G, E,3z2|z8|A,2B,C DC DC |D2z2B, G,2B, |A,3z4z|z8|A,2CE ED ED |E2z2DC DC |B,2A, B,3z2|z8|A,2B,C DC DC |D2z2B, D2G, |A,3z4z|z4C2D2|E2DE DE E2|G G3D2E2|E4z4|z8|FE FE F2F2|G G3zD E2|E4z4|z4C2D2|E E3z4|D2C2D C3|B,2A, B,3z2|z8|A,2B,C DC DC |B,2z2B, G,2B, |A,3z4z|z8|E2GA GA AG |A2z2BA BA |B2G A3z2|z8|E2GA AG AG |D2z2A G2A |E3z4z|z8|E2GA AG AG |A2z2dc dc |d2c d3z2|z8|E2GA AG AG |D2z2D B,2C |A,3z4z|z8|A,2CE DC ED |E2z2DC DC |B,2A, B,3z2|z8|A,2B,C DC DC |D2z2D B,2C |A,3z4z|z8|A,2B,C CB, CB, |C2z2CB, CB, |A,2G, E,3z2|z8|A,2B,C DC DC |D2z2B, G,2B, |A,3z4z|z8|A,2CE ED ED |E2z2DC DC |B,2A, B,3z2|z8|A,2B,C DC DC |D2z2B, D2G, |A,3z4z|z4C2D2|E2DE DE E2|G G3D2E2|E4z4|z8|FE FE F2F2|G G3zD E2|E4z4|z4C2D2|E E3z4|D2C2D C3|B,2A, B,3z2|z8|A,2B,C DC DC |B,2z2B, G,2B, |A,3z4z|z8|E2GA GA AG |A2z2BA BA |B2G A3z2|z8|E2GA AG AG |D2z2A G2A |E3z4z|z8|E2GA AG AG |A2z2dc dc |d2c d3z2|z8|E2GA AG AG |D2z2D B,2C |A,3z4z|z8|A,2CE DC ED |E2z2DC DC |B,2A, B,3z2|z8|A,2B,C DC DC |D2z2D B,2C |A,3 z5|]
+w:我日复一日的巡视大地山川与湖泊这世界背脊一道道纵横交错众神在明在暗**而我在阴影底座无趣又沉默数*着日月更迭数过此消彼长生命的*轮*廓华纳海姆的潮涨了又*落星辰闪烁海上漂泊的传说你在丛林穿行**影影绰绰一双眼比湖水清澈我从云端跌*落跌入了一片如神喻中的漩涡我向那星辰下*令充作焰*火**在月圆的光辉*里召集蝴蝶也摘下坠着露*水盛开的*花一朵在无边无际的夜里漫漫跋涉我日复一日的巡视大地山川与湖泊这世界背脊一道道纵横交错我见诸多景色只有你无法言说**听你在风中吹响那唇边叶笛就令这个世界光明而广阔**我来到你曾驻足的河**踌躇不决将珍藏不断打磨芬布尔之冬纯净的雪**色荒野上诗人的短歌或手中的花一朵想给予你的还*有很多很多当飞鸟界定天*空回望日*落**消失中会呈现时间的玫瑰啊从世界树根翻涌到你身侧*还有我献上那永恒和*被俘获的我
