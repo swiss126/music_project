@@ -1,0 +1,39 @@
+%MUSE2
+% input from midi file 拉结尔之书.mid
+T: 拉结尔之书
+M: 3/4
+L: 1/8
+Q:1/4=135
+% Last note suggests minor mode tune
+K:B
+
+%%barsperstaff 8
+
+V:1 style=jianpu name=主 sname=主 ins=0 brk=2
+V:2 style=jianpu name=和 sname=和 ins=0 
+
+[V:1]
+%%begintext
+前奏
+%%endtext
+A6|^G6|=G6|F6|A6|G6|^G6|A6|A6|^G6|=G6|F6|A6|G6|A3G3|A6|
+%%begintext
+主歌
+%%endtext
+|: A2A ABc |BBc B z2|d2c B2z|ccB A2z|A2A ABc |ddc B2z|^G^Gc B2c |A2z4|c2A Bcc |BBc B z2|e2d B2z|ddc A2z|c2B cBc |ddc B z2|^G^GA =G2G |A2z4|
+w: 1.尘封在圣经中的故事被远古歌声唤醒亚当赤足淌过席底结走向极东之地夏娃在树下睁开眼睛善恶树摇曳生姿恶魔踏过*伊甸边界天使吟唱圣歌
+w: 2.吟游诗人唱起那颂歌同在一起的双子向神献出了不同祭品被偏爱或厌恶只取决于*神的选择上帝的名字永恒死亡诅咒*永久背负花园藏着秘密
+%%begintext
+副歌
+%%endtext
+e2e ede |dde d z2|gge d2z|ffe e2z|e2e ede |ffe d2z|dde d2z|eec A2z|e2e efe |dde d z2|gge e3|ffe e z2|e2d ede |gg/g/a e2z|eed B2z|BBc A2z:|]
+w: 蛇*从此被诅咒缠绕而人远离土地丰饶他们虔诚却不被喜爱他们从此背负原罪谁披着天使的羽*毛还和恶魔结交生意世人交换了自己的灵魂却被天平称为劣等
+
+[V:2]
+E6|D6|D6|F6|E6|D6|D6|E6|E6|E6|D6|F6|E6|D6|D3D3|E6|
+w: 神的灵停在水面上渊面黑暗神说要有光***
+|: z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|eed B2c |A2z4|
+w: 1.神迹降临此刻
+w: 2.墓碑刻着献祭
+A2A ABc |BBc B z2|ddc B2z|ccB A2z|A2A ABc |ddc B2z|^G^Gc B2c |A2z4|c2A Bcc |BBc B z2|eed B2z|ddc A2z|c2B cBc |dd/d/c B z2|^G^GA =G2G |A6:|]
+w: 蛇*从此被诅咒缠绕而人远离土地丰饶他们虔诚却不被喜爱而神不爱世人谁披着天使的羽*毛还和恶魔结交生意世人交换了自己的灵魂而神目睹全程
